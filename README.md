@@ -6,6 +6,7 @@ An ESP32-based pressure-mat monitor that logs every press with a timestamp, serv
 ![Timezone](https://img.shields.io/badge/timezone-IST%20(UTC%2B5%3A30)-black)
 ---
 Overview
+
 Time window	Buzzer	Logging
 18:30:00 → 08:00:00 (next morning)	Pulses on every press	Yes
 08:00:00 → 18:29:59	Silent	Yes
